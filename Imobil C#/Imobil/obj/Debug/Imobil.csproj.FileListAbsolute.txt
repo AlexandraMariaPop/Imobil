@@ -1,0 +1,7 @@
+D:\Ale\Internship\Imobil_AlexandraMaria_Pop\Imobil\Imobil\bin\Debug\Imobil.exe.config
+D:\Ale\Internship\Imobil_AlexandraMaria_Pop\Imobil\Imobil\bin\Debug\Imobil.exe
+D:\Ale\Internship\Imobil_AlexandraMaria_Pop\Imobil\Imobil\bin\Debug\Imobil.pdb
+D:\Ale\Internship\Imobil_AlexandraMaria_Pop\Imobil\Imobil\obj\Debug\Imobil.csprojAssemblyReference.cache
+D:\Ale\Internship\Imobil_AlexandraMaria_Pop\Imobil\Imobil\obj\Debug\Imobil.csproj.CoreCompileInputs.cache
+D:\Ale\Internship\Imobil_AlexandraMaria_Pop\Imobil\Imobil\obj\Debug\Imobil.exe
+D:\Ale\Internship\Imobil_AlexandraMaria_Pop\Imobil\Imobil\obj\Debug\Imobil.pdb
